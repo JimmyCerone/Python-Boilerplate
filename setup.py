@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="Python_Boilerplate_jrcii",
+    name="Python_Boilerplate_jrcii2",
     version="0.0.1",
     author="Jimmy",
     author_email="author@example.com",
